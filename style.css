@@ -1,0 +1,201 @@
+#page-wraper {
+    background: url(images/background12.png) no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+}
+
+/*navbar*/
+.navbar {
+    background-color:hsl(19, 79%, 54%);
+}
+
+.navbar li a {
+    color: white;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    margin: 0 10px;
+}
+.navbar li a:hover {
+    color: royalblue;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+.navbar-brand {
+    color: white;
+    font-size: 1.7rem;
+    letter-spacing: 1px;
+}
+
+.navbar-brand:hover {
+    color:royalblue;
+    font-size: 1.3rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+#headJumbo img {
+    height: 200px;
+    width: auto;
+}
+
+ #headJumbo {
+     color:white ;
+ }
+
+ #headJumbo h1 {
+     font-size: 3.5rem;
+ }
+
+ #headJumbo h3 {
+    font-size: 2.2rem;
+}
+ .jumbotron {
+    background-color:hsl(19, 79%, 54%);
+    box-shadow: 1px 1px 30px slateblue;
+ }
+
+ #skills h1{
+     /**/
+     font-size: 2rem;
+     color:hsl(19, 79%, 54%);
+     margin-top: 100px;
+     text-underline-position: below; 
+     /**/
+     text-align: center;
+     /**/
+    }
+
+ #showCase h1{
+    font-size: 1.5rem;
+    color:hsl(19, 79%, 54%);
+    margin-top: 100px;
+ }
+ #aboutMe {
+    margin-top: 75px;
+ }
+
+ #aboutMe p {
+     text-align: left ;
+ }
+
+ #headJumbo p {
+     color: rgba(0, 0, 0,);
+ }
+
+ #skills svg.svg-inline--fa {
+    font-size: 5rem;
+    margin: auto;
+    color: hsl(19, 79%, 54%);
+    margin: 10px;
+    margin-top: 50px;
+ }
+
+ #skills svg.svg-inline--fa:hover {
+     color: royalblue!important;
+     font-size: 6rem;
+} 
+
+/* Project show case */
+
+#showCase {
+    margin-top: 200px;
+}
+
+.cap1 h3{
+    color:hsl(19, 79%, 54%);
+}
+
+.cap1 p {
+    color:hsl(19, 79%, 54%) ;
+}
+
+.carousel-indicators li {
+    display: none;
+}
+
+#projectsShow img {
+    width: 100%;
+    height: 400px;
+    padding: 30px 0;
+}
+
+
+.cap1 {
+    margin-top: 15px;
+}
+
+/* work history */
+
+#workHis {
+    margin-top: -140px;
+    text-align: center;
+}
+
+#workHis h1 {
+    font-size: 2rem;
+    text-decoration: ;
+    color: hsl(19, 79%, 54%);
+    font-weight: 300;
+}
+
+
+#workHis h3 {
+    font-size: 1.3rem;
+    text-decoration: underline hsl(19, 79%, 54%) ;
+    color: white;
+    font-weight: 300;
+}
+
+#workHis h4 {
+    font-size: 1rem;
+    font-style: italic;
+    color: white(0, 0, 0) ;
+    font-weight: 200;
+}
+
+/* Cards */
+
+#reviews .card {
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#reviews {
+    margin-top: 50px;
+}
+
+.card-header {
+    background-color: hsl(19, 79%, 54%);
+    color: white;
+    font-size: 1.1rem;
+}
+
+/* footer */
+
+#footer {
+    background-color: hsl(19, 79%, 54%);
+    margin-top: 100px;
+}
+#contact {
+    color: white;
+}
+
+#contact svg.svg-inline--fa {
+        font-size: 1.7rem;
+        margin: auto;
+        color: hsl(19, 79%, 54%);
+        margin: 10px;
+     }
+    
+#contact svg.svg-inline--fa:hover {
+         color: royalblue!important;
+         font-size: 1.7rem;
+}
+
+
+
+            
